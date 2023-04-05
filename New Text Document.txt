@@ -1,0 +1,19 @@
+Project: Robot Store Management System
+
+Description:
+The project is a management system for a robot store that allows users to select and purchase pre-built robots or build their custom robots. The system include a graphical user interface that allows users to navigate and interact with the system easily
+
+Features:
+
+The system should allow users to view and select pre-built robots based on different categories, such as price range, type of robot, and features.
+Users should be able to view the details and specifications of each robot, such as size, weight, power source, and capabilities.
+Users should be able to build their custom robots by selecting various components such as robot arms, legs, heads, and torsos. They should be able to view the cost of each component and the total cost of their custom robot.
+Users should be able to add their selected robots to a shopping cart and view the total cost of their purchase.
+The system should have a checkout process that accepts payment information and confirms the user's order.
+The system should also have an administrative interface that allows store managers to manage and update the store's inventory, track sales and revenue, and add new products to the store.
+Object-oriented design:
+
+The system can have a main class called "Robot" that has subclasses for different types of robots, such as "MobileRobot," "HumanoidRobot," and "IndustrialRobot."
+Each robot can have functions and attributes specific to its type, such as the number of arms or legs, the type of sensors, or the type of material used for the body.
+The system can have classes for different components, such as "RobotArm," "RobotLeg," "RobotHead," and "RobotTorso," which can be used to build custom robots.
+The system can also have a class for the shopping cart, which stores the selected robots and the total cost of the purchase.

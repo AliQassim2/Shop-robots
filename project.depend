@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1680651494 source:c:\users\dell\desktop\programming\project\main.cpp
+	<iostream>
+	<string.h>
+	"mystring.h"
+	"Robot.h"
+	"L&S.h"
+
+1678399576 c:\users\dell\desktop\programming\project\robot.h
+	<iostream>
+	<string.h>
+
+1678080197 source:c:\users\dell\desktop\programming\project\main2.cpp
+	<iostream>
+	<string.h>
+	"Robot.h"
+
+1679565039 c:\users\dell\desktop\programming\project\mystring.h
+	<iostream>
+
+1679824626 c:\users\dell\desktop\programming\project\l&s.h
+	<iostream>
+	"mystring.h"
+	<iostream>
+	<string.h>
+	<mysql.h>
+	<sstream>
+	<windows.h>
+
+1678888531 source:c:\users\dell\desktop\programming\project\connect.cpp
+
+1679305392 c:\users\dell\desktop\programming\project\c.h
+	<iostream>
+	"mystring.h"
+	<iostream>
+	<string.h>
+	<mysql.h>
+	<sstream>
+	"L&S.h"
+
